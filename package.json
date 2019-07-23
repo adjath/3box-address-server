@@ -46,7 +46,7 @@
     "serverless-offline": "^3.25.10",
     "serverless-webpack": "^5.2.0",
     "uport-did-resolver": "^0.0.3",
-    "webpack": "^4.26.1",
+    "webpack": "^4.37.0",
     "webpack-node-externals": "^1.6.0"
   },
   "jest": {
